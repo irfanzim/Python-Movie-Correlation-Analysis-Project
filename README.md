@@ -1,8 +1,7 @@
 # Movie Correlation Analysis Project 🎥📊
 
 ## **Project Objective**
-The goal of this project is to analyze the relationship between various factors such as budget, number of votes, and gross revenue in the movie industry. The analysis identifies key trends and actionable insights for stakeholders, enabling better decision-making in movie production and marketing.
-
+The goal of this project is to analyze the relationship between various factors such as budget, number of votes, and gross revenue in the movie industry.
 ---
 
 ## **Data Exploring**

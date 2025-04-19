@@ -3,6 +3,8 @@
 ## **Project Objective**
 The goal of this project is to analyze the relationship between various factors such as budget, number of votes, and gross revenue in the movie industry.
 
+This is a guided project from https://www.analystbuilder.com/
+
 ## **Data Exploring**
 ### Dataset Description:
 The dataset consists of information about movies, including: Budget, Released Year, Votes, Country, Gross Income etc.
